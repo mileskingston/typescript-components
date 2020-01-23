@@ -1,0 +1,20 @@
+.btn {
+  padding: 10px 15px;
+  margin: 0 10px;
+  font-size: 1em;
+  font-weight: bold;
+  border: 0;
+  cursor: pointer;
+}
+
+.btn--primary {
+  background-color: green;
+}
+
+.btn--secondary {
+  background-color: blue;
+}
+
+.btn--tertiary {
+  background-color: red;
+}
